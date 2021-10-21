@@ -2,7 +2,7 @@
   <div id="nav">
     <router-link to="/">Inicio</router-link> |
     <router-link to="/listar">Listado</router-link> |
-    <router-link to="/registrar">Registrar</router-link> |
+    <router-link to="/registrar">Registrar</router-link>
   </div>
   <router-view/>
 </template>
